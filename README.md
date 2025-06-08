@@ -24,4 +24,4 @@ This project is a **3D simulation of the solar system** built using [Three.js](h
 
 ```bash
 git clone https://github.com/Saurav5872/3D-solar-system
-cd solar-system-simulation
+cd 3D-solar-system
